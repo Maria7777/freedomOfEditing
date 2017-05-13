@@ -35,6 +35,9 @@ import android.graphics.Paint;
 import android.graphics.Paint.Cap;
 import android.util.Log;
 
+
+
+
 public abstract class BaseCommand extends Observable implements Command {
 	protected Paint mPaint;
 	protected Bitmap mBitmap;

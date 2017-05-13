@@ -20,7 +20,7 @@
 
 -->
 <resources xmlns:tools="http://schemas.android.com/tools">
-  <string name="app_name">Pocket Paint</string>
+  <string name="app_name">Freedom of editing</string>
   <string name="button_brush">Pinsel</string>
   <string name="button_cursor">Eingabezeiger</string>
   <string name="button_ellipse">Kreis/Ellipse</string>

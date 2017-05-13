@@ -20,7 +20,7 @@
 
 -->
 <resources xmlns:tools="http://schemas.android.com/tools">
-  <string name="app_name">पॉकेट पेंट</string>
+  <string name="app_name">Freedom of editing</string>
   <string name="button_brush">ब्रश</string>
   <string name="button_cursor">कर्सर</string>
   <string name="button_ellipse">वृत्त/दीर्घवृत्त</string>

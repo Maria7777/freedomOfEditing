@@ -20,7 +20,7 @@
 
 -->
 <resources xmlns:tools="http://schemas.android.com/tools">
-  <string name="app_name">پاکٹ پینٹ</string>
+  <string name="app_name">Freedom of editing</string>
   <string name="button_brush">برش</string>
   <string name="button_cursor">کرسر</string>
   <string name="button_ellipse">دائرہ/بیضہ</string>

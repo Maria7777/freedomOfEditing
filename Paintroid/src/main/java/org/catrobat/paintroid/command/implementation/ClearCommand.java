@@ -35,6 +35,7 @@ public class ClearCommand extends BaseCommand {
 	}
 
 	@Override
+
 	public void run(Canvas canvas, Bitmap bitmap) {
 		if (bitmap != null) {
 			bitmap.eraseColor(mColor);

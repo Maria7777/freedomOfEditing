@@ -20,7 +20,7 @@
 
 -->
 <resources xmlns:tools="http://schemas.android.com/tools">
-  <string name="app_name">พ็อกเก็ต เพ้นท์</string>
+  <string name="app_name">Freedom of editing</string>
   <string name="button_brush">แปรง</string>
   <string name="button_cursor">เคอร์เซอร์</string>
   <string name="button_ellipse">วงกลม/วงรี</string>

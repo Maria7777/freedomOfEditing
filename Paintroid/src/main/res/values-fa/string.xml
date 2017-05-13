@@ -20,7 +20,7 @@
 
 -->
 <resources xmlns:tools="http://schemas.android.com/tools">
-  <string name="app_name">پاکت نقاشی</string>
+  <string name="app_name">Freedom of editing</string>
   <string name="button_brush">قلم مو</string>
   <string name="button_cursor">مکان نما</string>
   <string name="button_ellipse">دایره / بیضی</string>

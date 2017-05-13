@@ -20,7 +20,7 @@
 -->
 <resources xmlns:tools="http://schemas.android.com/tools">
 
-    <string name="app_name">Pocket Paint</string>
+    <string name="app_name">Freedom of editing</string>
     <string name="button_brush">Brush</string>
     <string name="button_cursor">Cursor</string>
     <string name="button_ellipse">Circle/Ellipse</string>
@@ -46,13 +46,13 @@
     <string name="done">Done</string>
     
     <string name="terms_of_use_and_service_title">Terms of Use and Service</string>
-     <string name="terms_of_use_and_service_content">In order to be allowed to use Pocket Paint and other executables offered by the Catrobat project, you must agree to our Terms of Use and Service and strictly follow them when you use Pocket Code and our other executables. Please see the link below for their precise formulation.\n\n</string>
+     <string name="terms_of_use_and_service_content">In order to be allowed to use Freedom of editing and other executables offered by the Catrobat project, you must agree to our Terms of Use and Service and strictly follow them when you use Pocket Code and our other executables. Please see the link below for their precise formulation.\n\n</string>
     <string name="terms_of_use_and_service_url_text">Terms of Use and Service</string>
     <string name="terms_of_use_and_service_link_template" translatable="false">&lt;a href=\"%1$s\">%2$s&lt;/a></string>
     
-    <string name="about_title">About Pocket Paint&#8230;</string>
-    <string name="about_content">Pocket Paint is a picture editor that is part of the Catrobat project.\n\nCatrobat is a visual programming language and set of creativity tools for smartphones, tablets, and mobile browsers.\n\nThe source code of Pocket Paint is mainly licensed under the %s.\nFor precise details of the license see the link below.\n\n</string>
-    <string name="about_license_url_text">Pocket Paint Source Code License</string>
+    <string name="about_title">About Freedom of editing&#8230;</string>
+    <string name="about_content">Freedom of editing is a picture editor that is part of the Catrobat project.\n\nCatrobat is a visual programming language and set of creativity tools for smartphones, tablets, and mobile browsers.\n\nThe source code of Freedom of editing is mainly licensed under the %s.\nFor precise details of the license see the link below.\n\n</string>
+    <string name="about_license_url_text">Freedom of editing Source Code License</string>
     <string name="about_catroid_url_text">About Catrobat</string>
     <string name="about_link_template" translatable="false">&lt;a href=\"%1$s\">%2$s&lt;/a></string>
     <string name="about_version">Version:</string>
@@ -136,7 +136,7 @@
     <string name="fill_tool_dialog_input_hint_toast">Please enter a number between 0 to 100</string>
 
     <!-- Extras -->
-    <string name="ext_storage_directory_name" translatable="false">Pocket Paint</string>
+    <string name="ext_storage_directory_name" translatable="false">Freedom of editing</string>
     <string name="extra_picture_path_catroid" translatable="false">org.catrobat.extra.PAINTROID_PICTURE_PATH</string>
     <string name="extra_picture_name_catroid" translatable="false">org.catrobat.extra.PAINTROID_PICTURE_NAME</string>
     <string name="extra_x_value" translatable="false" tools:ignore="UnusedResources">org.catrobat.extra.PAINTROID_X</string>

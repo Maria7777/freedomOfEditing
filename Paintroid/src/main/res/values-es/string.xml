@@ -20,7 +20,7 @@
 
 -->
 <resources xmlns:tools="http://schemas.android.com/tools">
-  <string name="app_name">Pocket Pintar</string>
+  <string name="app_name">Freedom of editing</string>
   <string name="button_brush">Pincel</string>
   <string name="button_cursor">Cursor</string>
   <string name="button_ellipse">Círculo/elipse</string>
